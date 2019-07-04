@@ -1,2 +1,2 @@
 # Sample-Work
-This is examples of my HTML , Java, and C work
+These are examples of my HTML , Java, and C work
